@@ -1,1 +1,1 @@
-module github.com/metakeule/fmtdate
+module github.com/swork9/fmtdate
